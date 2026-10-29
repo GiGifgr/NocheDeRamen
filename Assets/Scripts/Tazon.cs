@@ -1,5 +1,3 @@
-using UnityEngine;
-
 public class Tazon
 {
     public int numero;

@@ -1,5 +1,3 @@
-using UnityEngine;
-
 public class Platillo
 {
     public string nombre;
